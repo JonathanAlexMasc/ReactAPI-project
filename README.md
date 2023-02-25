@@ -19,8 +19,6 @@
 
 >Some sample images from my finished application
 
-<img title="Portugal" alt="Images of landscape from portugal" src="./portugal.png">
-
 <img title="Goa" alt="Images of landscape from Goa" src="./goa.jpeg">
 
 <img title="California" alt="Images of landscape from California" src="./california.jpeg">
